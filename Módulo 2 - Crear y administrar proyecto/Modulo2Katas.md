@@ -9,7 +9,7 @@ Crea un entorno virtual mediante ``venv``
 
 ![image](https://github.com/DanielaBeltranCruz/Curso-Introductorio-Python/blob/e484496e1831a6edd395f99deae5353070a6dead/M%C3%B3dulo%202%20-%20Crear%20y%20administrar%20proyecto/image_02.JPG)
 
-    Ahora tienes un directorio (folder) ``env`` creado en tu terminal.
+    Ahora tienes un directorio (folder) env creado en tu terminal.
 
 * Ejecuta el comando para activar el entorno virtual: ``source env/bin/activate``
 
