@@ -3,8 +3,6 @@ En este ejercicio, aprenderás a utilizar entornos virtuales como una forma para
 
 *Para este ejercicio es necesario que lo ejecutes desde la terminal, línea de comandos, cmd, consola, cli, etc. de tu computadora.*
 
-![image](https://github.com/DanielaBeltranCruz/Curso-Introductorio-Python/blob/e484496e1831a6edd395f99deae5353070a6dead/M%C3%B3dulo%202%20-%20Crear%20y%20administrar%20proyecto/image_01.JPG)
-
 ## Crear un entorno virtual
 Crea un entorno virtual mediante ``venv``
 * Ejecutar en su terminal: ``python -m venv env``
